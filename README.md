@@ -12,8 +12,6 @@
 
 ### 🧠 Tecnologias
 
-### 🧠 Tecnologias
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35"/> Java &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="35"/> Angular &nbsp;&nbsp;
