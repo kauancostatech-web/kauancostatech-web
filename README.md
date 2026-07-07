@@ -1,10 +1,12 @@
-# 👨🏽‍💻 Kauan Costa Santos
+👨🏽‍💻 Kauan Costa Santos
 
 💻 Desenvolvedor Back-end em (Java)
 
 🎓 Cursando Análise e Desenvolvimento de Sistemas no SENAC-SP
 
 ☕ Foco em desenvolvimento Back-end, APIs e regras de negócio
+
+🚀 Buscando oportunidade de estágio em Desenvolvimento de Software
 
 🧠 Interesse em arquitetura de aplicações, banco de dados e integração de sistemas
 
