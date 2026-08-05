@@ -2,7 +2,7 @@
 
 💻 Desenvolvedor Back-end em (Java)
 
-🎓 Cursando Análise e Desenvolvimento de Sistemas no 2º Semestre (Senac-SP)
+🎓 Cursando Análise e Desenvolvimento de Sistemas no 3º Semestre (Senac-SP)
 
 ☕ Foco em desenvolvimento Back-end, APIs e regras de negócio
 
